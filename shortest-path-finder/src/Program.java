@@ -5,6 +5,7 @@ public class Program {
 		// TODO Auto-generated method stub
 		// shortest path finder
 		System.out.println("spf");
+		System.out.println("PLZ");
 	}
 
 }
